@@ -172,9 +172,11 @@ export default function ZigftLandingPage() {
       >
         <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
           <a href="#" className="flex items-center gap-3 group">
-            <div className="w-8 h-8 rounded border border-amber-500/40 bg-amber-500/10 flex items-center justify-center text-amber-400 font-serif font-bold text-lg tracking-wider group-hover:border-amber-400 transition-colors">
-              Z
-            </div>
+            <img 
+              src="/icon.png" 
+              alt="ZIGFT Logo" 
+              className="w-9 h-9 object-contain rounded group-hover:scale-105 transition-transform duration-300" 
+            />
             <div className="flex flex-col">
               <span className="font-sans tracking-[0.25em] font-semibold text-lg text-zinc-100 group-hover:text-amber-300 transition-colors">
                 ZIGFT
@@ -293,9 +295,11 @@ export default function ZigftLandingPage() {
                 <div className="absolute inset-2 rounded-full border border-zinc-800/80 border-dashed animate-[spin_60s_linear_infinite]" />
                 <div className="absolute inset-8 rounded-full border border-amber-500/10" />
                 <div className="text-center p-6 space-y-2">
-                  <div className="w-12 h-12 mx-auto rounded-full border border-amber-500/40 bg-amber-500/10 flex items-center justify-center text-amber-400 font-serif font-bold text-xl mb-3">
-                    Z
-                  </div>
+                  <img 
+                    src="/icon.png" 
+                    alt="ZIGFT Logo" 
+                    className="w-14 h-14 mx-auto object-contain rounded mb-3" 
+                  />
                   <span className="block text-xs font-mono tracking-widest text-amber-400 uppercase">
                     Intergenerational
                   </span>
@@ -660,9 +664,11 @@ export default function ZigftLandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
             <div className="md:col-span-5 space-y-3">
               <div className="flex items-center gap-2">
-                <div className="w-5 h-5 rounded border border-amber-500/40 bg-amber-500/10 flex items-center justify-center text-amber-400 font-serif font-bold text-xs">
-                  Z
-                </div>
+                <img 
+                  src="/icon.png" 
+                  alt="ZIGFT Logo" 
+                  className="w-6 h-6 object-contain rounded" 
+                />
                 <span className="font-semibold text-sm tracking-widest text-zinc-200">ZIGFT</span>
               </div>
               <p className="text-zinc-400 font-mono text-[11px]">Private Family Office</p>
