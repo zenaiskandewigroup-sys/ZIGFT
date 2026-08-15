@@ -618,11 +618,11 @@ export default function ZigftLandingPage() {
                   </div>
                   <div>
                     <span className="text-xs font-mono uppercase tracking-widest text-zinc-500 block mb-1">WhatsApp Communications</span>
-                    <h3 className="text-base sm:text-lg text-zinc-200 font-mono">+62 858-0958-2351</h3>
+                    <h3 className="text-base sm:text-lg text-zinc-200 font-mono">+62 858-0957-2351</h3>
                   </div>
                 </div>
                 <a
-                  href="https://wa.me/6285809582351"
+                  href="https://wa.me/6285809572351"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded border border-amber-500/40 bg-amber-500/10 hover:bg-amber-500/20 text-xs font-mono uppercase tracking-widest text-amber-300 transition-all"
